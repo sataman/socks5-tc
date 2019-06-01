@@ -8,7 +8,7 @@ It's strongly recommended to limit the source ip addresses or ranges that can ac
 
 # Create instance
 
-Run "create-vm.sh INSTANCE_NAME" to create a VM named INSTANCE_NAME. 
+Run "create-vm.sh INSTANCE_NAME" to create a VM named INSTANCE_NAME.   
 For simplicity, the script asumes f1-micro machine-type but it can be any other.
 
 # Startup Script
